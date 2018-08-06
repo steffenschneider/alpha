@@ -10,6 +10,7 @@ namespace Sortlex
     {
         // todo
 
+
         public static void Main(string[] args)
         {
             var logger = LogManager.GetCurrentClassLogger();
